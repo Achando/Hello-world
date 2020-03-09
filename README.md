@@ -1,2 +1,2 @@
 # Hello-world
-Computer scientisin the making.
+Computer scientist in the making.
